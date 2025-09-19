@@ -1,6 +1,7 @@
 # Node DB Playground
 
-[![CI](https://github.com/tsalexandre97/node-db-playground/actions/workflows/ci.yml/badge.svg)](https://github.com/tsalexandre97/node-db-playground/actions)
+[![Static Badge](https://img.shields.io/badge/Node.js-ci?label=CI&link=https%3A%2F%2Fgithub.com%2Ftsalexandre97%2Fnode-db-playground%2Factions%2Fworkflows%2Fci.yml)
+](https://github.com/tsalexandre97/node-db-playground/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 Mini-projeto para estudar **conexões Node.js com diversos bancos de dados** usando **Docker Compose**. A ideia é ter um app Node central e “plugar” bancos diferentes para praticar do **básico ao avançado**, com foco maior em **MongoDB** e **Redis**.
