@@ -148,7 +148,8 @@ Este repositório inclui um workflow simples em `.github/workflows/ci.yml` que:
 - Executa `npm test` (placeholder por enquanto).
 - Valida o `docker-compose.yml` com `docker compose config`.
 
-Badge: [![CI](https://github.com/tsalexandre97/node-db-playground/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tsalexandre97/node-db-playground/actions/workflows/ci.yml)
+Badge: [![Static Badge](https://img.shields.io/badge/Node.js-ci?label=CI&link=https%3A%2F%2Fgithub.com%2Ftsalexandre97%2Fnode-db-playground%2Factions%2Fworkflows%2Fci.yml)
+](https://github.com/tsalexandre97/node-db-playground/actions/workflows/ci.yml)
 
 ## 📜 Licença
 
